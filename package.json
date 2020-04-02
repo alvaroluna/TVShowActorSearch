@@ -1,5 +1,5 @@
 {
-  "name": "tv-search",
+  "name": "tv-tuner",
   "version": "1.0.0",
   "description": "UCB in-class assignment searches either a tv show or actor given user inputs.",
   "main": "index.js",
